@@ -1,6 +1,8 @@
 #ifndef __VGL_H__
 #define __VGL_H__
 
+#include <cstring>
+
 #include <GL3/gl3.h>
 #include <GL3/gl3w.h>
 
